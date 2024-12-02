@@ -5,10 +5,10 @@ Modelling the linear relationship between Sales and Advertising Dataset
 In this project, I build a Simple Linear Regression model to study the linear relationship between Sales and Advertising dataset for a dietary weight control product. I discuss the basics of linear regression and its implementation in Python programming language using Scikit-learn. Scikit-learn is the popular machine learning library of Python programming language.
 
  ## Python libraries
- 1.Numpy – It provides a fast numerical array structure and operating functions.
- 2.pandas – It provides tools for data storage, manipulation and analysis tasks.
- 3.Scikit-Learn – The required machine learning library in Python.
- 4.Matplotlib – It is the basic plotting library in Python. It provides tools for making plots.
+- 1.Numpy – It provides a fast numerical array structure and operating functions.
+- 2.pandas – It provides tools for data storage, manipulation and analysis tasks.
+- 3.Scikit-Learn – The required machine learning library in Python.
+- 4.Matplotlib – It is the basic plotting library in Python. It provides tools for making plots.
 
  ## The problem statement
  The problem is to model and investigate the linear relationship between Sales and Advertising dataset for a dietary weight control product. I have used two performance metrics RMSE (Root Mean Square Value) and R2 Score value to compute our model performance.
